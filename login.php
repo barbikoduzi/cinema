@@ -1,7 +1,10 @@
 <?php
     include('server.php'); 
     include_once("connect.php"); 
+
+    //barbi
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,6 +31,6 @@
         <p>
             Not yet a member? <a href="register.php">Sign up</a>
         </p>
-    </form>
+    </form> 
 </body>
 </html>
